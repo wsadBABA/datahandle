@@ -1,0 +1,54 @@
+2019-04-04 08:42:30,089 INFO [main] c.d.datahandle.DatahandleApplication [StartupInfoLogger.java : 50] Starting DatahandleApplication on LIUZHEN with PID 7968 (F:\test\datahandle\target\classes started by Administrator in F:\test\datahandle)
+2019-04-04 08:42:30,096 INFO [main] c.d.datahandle.DatahandleApplication [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:42:48,943 INFO [main] c.d.datahandle.DatahandleApplication [StartupInfoLogger.java : 50] Starting DatahandleApplication on LIUZHEN with PID 5908 (F:\test\datahandle\target\classes started by Administrator in F:\test\datahandle)
+2019-04-04 08:42:48,946 INFO [main] c.d.datahandle.DatahandleApplication [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:43:05,561 INFO [main] c.d.datahandle.DatahandleApplication [StartupInfoLogger.java : 50] Starting DatahandleApplication on LIUZHEN with PID 740 (F:\test\datahandle\target\classes started by Administrator in F:\test\datahandle)
+2019-04-04 08:43:05,563 INFO [main] c.d.datahandle.DatahandleApplication [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:43:48,947 INFO [main] c.d.datahandle.DatahandleApplication [StartupInfoLogger.java : 50] Starting DatahandleApplication on LIUZHEN with PID 8216 (F:\test\datahandle\target\classes started by Administrator in F:\test\datahandle)
+2019-04-04 08:43:48,950 INFO [main] c.d.datahandle.DatahandleApplication [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:43:54,274 INFO [main] c.d.datahandle.DatahandleApplication [StartupInfoLogger.java : 59] Started DatahandleApplication in 5.739 seconds (JVM running for 7.611)
+2019-04-04 08:44:47,770 INFO [main] c.d.d.DatahandleApplicationTests [StartupInfoLogger.java : 50] Starting DatahandleApplicationTests on LIUZHEN with PID 8120 (started by Administrator in F:\test\datahandle)
+2019-04-04 08:44:47,772 INFO [main] c.d.d.DatahandleApplicationTests [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:44:48,732 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java : 126] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-04 08:44:48,764 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java : 182] Finished Spring Data repository scanning in 20ms. Found 0 repository interfaces.
+2019-04-04 08:44:49,228 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java : 330] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d55a32b9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-04 08:44:49,637 INFO [main] org.hibernate.Version [Version.java : 46] HHH000412: Hibernate Core {5.3.7.Final}
+2019-04-04 08:44:49,639 INFO [main] org.hibernate.cfg.Environment [Environment.java : 213] HHH000206: hibernate.properties not found
+2019-04-04 08:44:49,809 INFO [main] o.h.annotations.common.Version [JavaReflectionManager.java : 49] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-04 08:44:50,559 INFO [main] c.alibaba.druid.pool.DruidDataSource [DruidDataSource.java : 928] {dataSource-1} inited
+2019-04-04 08:44:50,591 INFO [main] org.hibernate.dialect.Dialect [Dialect.java : 157] HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2019-04-04 08:44:52,291 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-04 08:44:53,178 INFO [main] o.s.b.a.e.web.EndpointLinksResolver [EndpointLinksResolver.java : 59] Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-04-04 08:44:53,252 INFO [main] c.d.d.DatahandleApplicationTests [StartupInfoLogger.java : 59] Started DatahandleApplicationTests in 5.848 seconds (JVM running for 6.643)
+2019-04-04 08:44:53,429 INFO [Thread-4] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 208] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-04 08:44:53,682 INFO [Thread-4] c.alibaba.druid.pool.DruidDataSource [DruidDataSource.java : 1823] {dataSource-1} closed
+2019-04-04 08:48:44,916 INFO [main] c.d.d.DatahandleApplicationTests [StartupInfoLogger.java : 50] Starting DatahandleApplicationTests on LIUZHEN with PID 6048 (started by Administrator in F:\test\datahandle)
+2019-04-04 08:48:44,917 INFO [main] c.d.d.DatahandleApplicationTests [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:48:45,897 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java : 126] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-04 08:48:45,928 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java : 182] Finished Spring Data repository scanning in 23ms. Found 0 repository interfaces.
+2019-04-04 08:48:46,354 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java : 330] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f318939f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-04 08:48:46,741 INFO [main] org.hibernate.Version [Version.java : 46] HHH000412: Hibernate Core {5.3.7.Final}
+2019-04-04 08:48:46,743 INFO [main] org.hibernate.cfg.Environment [Environment.java : 213] HHH000206: hibernate.properties not found
+2019-04-04 08:48:46,912 INFO [main] o.h.annotations.common.Version [JavaReflectionManager.java : 49] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-04 08:48:47,631 INFO [main] c.alibaba.druid.pool.DruidDataSource [DruidDataSource.java : 928] {dataSource-1} inited
+2019-04-04 08:48:47,646 INFO [main] org.hibernate.dialect.Dialect [Dialect.java : 157] HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2019-04-04 08:48:49,246 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-04 08:48:50,129 INFO [main] o.s.b.a.e.web.EndpointLinksResolver [EndpointLinksResolver.java : 59] Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-04-04 08:48:50,219 INFO [main] c.d.d.DatahandleApplicationTests [StartupInfoLogger.java : 59] Started DatahandleApplicationTests in 5.757 seconds (JVM running for 6.506)
+2019-04-04 08:48:50,402 INFO [Thread-4] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 208] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-04 08:48:50,600 INFO [Thread-4] c.alibaba.druid.pool.DruidDataSource [DruidDataSource.java : 1823] {dataSource-1} closed
+2019-04-04 08:53:50,594 INFO [main] c.d.d.DatahandleApplicationTests [StartupInfoLogger.java : 50] Starting DatahandleApplicationTests on LIUZHEN with PID 5956 (started by Administrator in F:\test\datahandle)
+2019-04-04 08:53:50,594 INFO [main] c.d.d.DatahandleApplicationTests [SpringApplication.java : 675] No active profile set, falling back to default profiles: default
+2019-04-04 08:53:51,593 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java : 126] Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-04-04 08:53:51,624 INFO [main] o.s.d.r.c.RepositoryConfigurationDelegate [RepositoryConfigurationDelegate.java : 182] Finished Spring Data repository scanning in 31ms. Found 0 repository interfaces.
+2019-04-04 08:53:52,029 INFO [main] o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker [PostProcessorRegistrationDelegate.java : 330] Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cb5bc882] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-04-04 08:53:52,404 INFO [main] org.hibernate.Version [Version.java : 46] HHH000412: Hibernate Core {5.3.7.Final}
+2019-04-04 08:53:52,404 INFO [main] org.hibernate.cfg.Environment [Environment.java : 213] HHH000206: hibernate.properties not found
+2019-04-04 08:53:52,544 INFO [main] o.h.annotations.common.Version [JavaReflectionManager.java : 49] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-04-04 08:53:53,199 INFO [main] c.alibaba.druid.pool.DruidDataSource [DruidDataSource.java : 928] {dataSource-1} inited
+2019-04-04 08:53:53,215 INFO [main] org.hibernate.dialect.Dialect [Dialect.java : 157] HHH000400: Using dialect: org.hibernate.dialect.Oracle10gDialect
+2019-04-04 08:53:54,447 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 171] Initializing ExecutorService 'applicationTaskExecutor'
+2019-04-04 08:53:55,290 INFO [main] o.s.b.a.e.web.EndpointLinksResolver [EndpointLinksResolver.java : 59] Exposing 15 endpoint(s) beneath base path '/actuator'
+2019-04-04 08:53:55,352 INFO [main] c.d.d.DatahandleApplicationTests [StartupInfoLogger.java : 59] Started DatahandleApplicationTests in 5.148 seconds (JVM running for 5.901)
+2019-04-04 08:53:55,446 INFO [Thread-4] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java : 208] Shutting down ExecutorService 'applicationTaskExecutor'
+2019-04-04 08:53:55,602 INFO [Thread-4] c.alibaba.druid.pool.DruidDataSource [DruidDataSource.java : 1823] {dataSource-1} closed
